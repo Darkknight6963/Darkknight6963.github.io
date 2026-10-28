@@ -9,7 +9,7 @@ My notes, questions, and investigations in linear algebra.
 
 ## Topics
 
-- [Eigenvalues, Eigenvectors and Invariant Subspaces](/linear-algebra/eigenvalues.html)
+- [Eigenvalues, Eigenvectors and Invariant Subspaces](/eigenvalues.html)
 - Inner Product Spaces
 - Operators on Inner Product Spaces
 - Operators on Complex Vector Spaces
