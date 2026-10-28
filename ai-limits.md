@@ -15,10 +15,12 @@ I don't know yet. This is an ongoing investigation.
 
 ## Questions Worth Exploring
 
-- Are there theoretical limits to intelligence?
-- Can an AI predict human behavior?
-- What are the limits of computation?
-- Can an AI improve its own intelligence?
+- What is the difinition of intelligence?
+- Are there mathematical limits to intelligence?
+- What problems are fundamentally difficult for computers to solve?
+- Does more compute always lead to more intelligence?
+- Can AI improve itself recursively?
+- How capable is AI today and what can we expect in the near and far future?
 
 ## Research Notes
 
