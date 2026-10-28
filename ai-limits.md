@@ -15,7 +15,7 @@ I don't know yet. This is an ongoing investigation.
 
 ## Questions Worth Exploring
 
-- What is the difinition of intelligence?
+- What is the definition of intelligence?
 - Are there mathematical limits to intelligence?
 - What problems are fundamentally difficult for computers to solve?
 - Does more compute always lead to more intelligence?
