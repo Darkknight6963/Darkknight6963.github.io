@@ -8,7 +8,7 @@ else sparks my curiosity.
 
 ## Current Investigations
 
-### [How Intelligent Can AI Become?](ai-limits)
+### [How Intelligent Can AI Become?]({{ '/ai-limits/' | relative_url }})
 
 Can we build something like The Machine
 from *Person of Interest*? What are
