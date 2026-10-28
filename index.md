@@ -8,7 +8,7 @@ else sparks my curiosity.
 
 ## Current Investigations
 
-### How Intelligent Can AI Become?
+### [How Intelligent Can AI Become?](ai-limits)
 
 Can we build something like The Machine
 from *Person of Interest*? What are
