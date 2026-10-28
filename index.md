@@ -2,21 +2,22 @@
 
 Welcome to my corner of the internet.
 
-I'm exploring mathematics, physics,
-artificial intelligence, and whatever
-else sparks my curiosity.
+I'm exploring mathematics, physics, 
+computer science,artificial intelligence, 
+and whatever else sparks my curiosity.
 
 ## Current Investigations
 
-### [How Intelligent Can AI Become?]({{ '/ai-limits/' | relative_url }})
+### What are the limits of computation?
+### Markov chains applied to everyday life.
+### Martingales applied to everyday life.
+### Random walks applied everyday life
 
-Can we build something like The Machine
-from *Person of Interest*? What are
-the fundamental limits of intelligence?
+## What I am learning
 
-### Learning Quantum Mechanics
+### Quantum Mechanics
+#### Some Linear Algebra
 
-My notes while studying Griffiths.
 
 
 ## About
