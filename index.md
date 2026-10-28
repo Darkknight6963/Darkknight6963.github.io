@@ -13,7 +13,7 @@ and whatever else sparks my curiosity.
 ## What I am learning
 
 ### Quantum Mechanics
-### Linear Algebra](/linear-algebra/)
+### [Linear Algebra](/linear-algebra/)
 
 ### Markov chains, martingales and random walks
 
