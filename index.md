@@ -25,3 +25,18 @@ and whatever else sparks my curiosity.
 
 A living collection of questions,
 experiments, and evolving ideas.
+
+
+## Mathematical Notes
+
+The expected value of a discrete random variable is:
+
+$$
+E[X] = \sum_{x} x P(X=x)
+$$
+
+The variance is:
+
+$$
+\operatorname{Var}(X) = E[X^2] - (E[X])^2
+$$
