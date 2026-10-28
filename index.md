@@ -9,7 +9,7 @@ and whatever else sparks my curiosity.
 ## Current Investigations
 
 ### What are the limits of computation?
-### Markov chains applied to everyday life.
+### [Markov Chains Applied to Everyday Life](/markov-chains.html)
 ### Martingales applied to everyday life.
 ### Random walks applied everyday life
 
