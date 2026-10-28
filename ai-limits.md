@@ -7,7 +7,7 @@ title: How Intelligent Can AI Become?
 
 ## The Question
 
-What are the fundamental limits of artificial intelligence? Could we build something like The Machine from *Person of Interest*?
+What are the fundamental limits of artificial intelligence, if there are any? 
 
 ## What I Currently Think
 
